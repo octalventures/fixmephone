@@ -7,7 +7,7 @@ Insufficient storage fixer - Android.
 * Bad permissions in /data/lib
 
 ____________
-### How to Build/View
+## How to Build/View
 
 This tutorial will tell you how to use Eclipse to view, edit, and build Fix Me Storage.
 
@@ -56,7 +56,7 @@ If you already have Eclipse and the Android SDK setup, skip this step.
 1. Under the 'res/layout' directory there will be the layouts, doule click to one to view or modify it.
 
 ____________
-### To-do
+## To-do
 
 
 * Add fix for insuffient storage on update
