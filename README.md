@@ -43,7 +43,7 @@ If you already have Eclipse and the Android SDK setup, skip this step.
 ##### Step 2: Download & import the project
 
 1. Open a command prompt and `cd` to the directory above where you want the project downloaded to
-2. Run `git clone https://code.github.com/timberwolfprogrammers/fixmestorage/code.git folder` (replace "folder" with the folder to clone into)
+2. Run `git clone https://github.com/timberwolfprogrammers/fixmestorage.git folder` (replace "folder" with the folder to clone into)
 3. In Eclipse, import the project using 'File > Import' selecting the project type as an "Android Project"
 
 ##### Step 3: View or modify the Java code
