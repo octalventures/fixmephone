@@ -2,7 +2,7 @@
 
 Insufficient storage fixer - Android.
 
-#### Current fixes:
+##### Current fixes:
 * Bad ownership in /data/lib
 * Bad permissions in /data/lib
 
@@ -11,14 +11,14 @@ ____________
 
 This tutorial will tell you how to use Eclipse to view, edit, and build Fix Me Storage.
 
-#### Prerequisites:
+##### Prerequisites:
 
 1. Java SE Development Kit installed
 2. JDK added to your PATH var
 3. Git is installed
 4. Git added to your PATH var
 
-#### Step 1: Setting up Eclipse
+##### Step 1: Setting up Eclipse
 
 If you do not have Eclipse already follow version A.
 If you do not have the Android SDK & Eclipse plugin, follow version B.
@@ -40,18 +40,18 @@ If you already have Eclipse and the Android SDK setup, skip this step.
     4. `SDK Platform` (Under each of the "Android X.X" folders)
   3. Follow the instructions [here](http://developer.android.com/sdk/installing/installing-adt.html) on installing the ADT plugin.
 
-#### Step 2: Download & import the project
+##### Step 2: Download & import the project
 
 1. Open a command prompt and `cd` to the directory above where you want the project downloaded to
 2. Run `git clone https://code.github.com/timberwolfprogrammers/fixmestorage/code.git folder` (replace "folder" with the folder to clone into)
 3. In Eclipse, import the project using 'File > Import' selecting the project type as an "Android Project"
 
-#### Step 3: View or modify the Java code
+##### Step 3: View or modify the Java code
 
 1. Under the 'src' directory there will be the package 'com.TWP.Project.Fixes.FS.IS' open it.
 2. In there is the Java code. Double click any of them to view or modify them.
 
-#### Step 4: View or modify the layout
+##### Step 4: View or modify the layout
 
 1. Under the 'res/layout' directory there will be the layouts, doule click to one to view or modify it.
 
