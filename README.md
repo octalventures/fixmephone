@@ -27,7 +27,7 @@ If you already have Eclipse and the Android SDK setup, skip this step.
 ###### Version A
 
   1. Download the Eclipse ADT from [here](https://developer.android.com/sdk/index.html)
-  2. Unzip it to a directory of your choosing. Be sure it can be modified without UAC prompts, so choose something like you home directory.
+  2. Unzip it to a directory of your choosing. Be sure it can be modified without UAC prompts, so choose something like your home directory.
   3. Under the new folder there should be a directory named 'eclipse' open it and run eclipse.exe
 
 ###### Version B
@@ -53,7 +53,7 @@ If you already have Eclipse and the Android SDK setup, skip this step.
 
 ##### Step 4: View or modify the layout
 
-1. Under the 'res/layout' directory there will be the layouts, doule click to one to view or modify it.
+1. Under the 'res/layout' directory there will be the layouts, double click to one to view or modify it.
 
 ____________
 ## To-do
