@@ -19,7 +19,7 @@ public class Main extends ActionBarActivity
 	{
 		super.onCreate(savedInstanceState);
 		final Activity me = this;
-		setContentView(R.layout.Main);
+		setContentView(R.layout.main);
 		/*********   Storage   *********/
 		/****      Fix 1            ****/
 		Button storage_fix1 = (Button) findViewById(R.id.storage_fix1);
