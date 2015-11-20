@@ -9,7 +9,7 @@ AIO Android Bug Squasher
 ____________
 ## How to Build/View
 
-This tutorial will tell you how to use Eclipse to view, edit, and build Fix Me Storage.
+This tutorial will tell you how to use Eclipse to view, edit, and build Fix Me Phone.
 
 ##### Prerequisites:
 
