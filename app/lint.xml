@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <lint>
-    <issue id="Instantiatable" severity="ignore" />
-    <issue id="MissingTranslation" severity="ignore" />
-    <issue id="NestedWeights" severity="ignore" />
+	<issue id="Instantiatable" severity="ignore"/>
+	<issue id="MissingTranslation" severity="ignore"/>
+	<issue id="NestedWeights" severity="ignore"/>
 </lint>
