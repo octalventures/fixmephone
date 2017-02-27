@@ -11,6 +11,13 @@ ____________
 
 This tutorial will tell you how to use Eclipse to view, edit, and build Fix Me Phone.
 
+#### Android Studio:
+
+1. We recently changed the project to Android Studio type, the below steps can still work though.
+2. Building with android studio should be quite simple, simply open the build menu and build the app there.
+3. If you have the SDK but not Android Studio, the gradle files should provide a relatively simple build
+4. We've added this to a CI, builds are automatically done from source there as well.
+
 ##### Prerequisites:
 
 1. Java SE Development Kit installed
