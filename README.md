@@ -1,5 +1,7 @@
 # Fix Me Phone
 
+[![Build Status](https://travis-ci.org/techwolves/fixmephone.svg?branch=master)](https://travis-ci.org/techwolves/fixmephone)
+
 AIO Android Bug Squasher
 
 ##### Current fixes:
