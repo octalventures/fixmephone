@@ -2,7 +2,7 @@ package us.techwolves.activities;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
@@ -12,7 +12,7 @@ import com.TWP.Project.Fixes.FS.IS.R;
 import us.techwolves.fixes.storage.fix1;
 import us.techwolves.fixes.storage.fix2;
 
-public class Main extends ActionBarActivity
+public class Main extends AppCompatActivity
 {
 
 	@Override protected void onCreate(Bundle savedInstanceState)
@@ -20,9 +20,9 @@ public class Main extends ActionBarActivity
 		super.onCreate(savedInstanceState);
 		final Activity me = this;
 		setContentView(R.layout.main);
-		/*********   Storage   *********/
-		/****      Fix 1            ****/
-		Button storage_fix1 = (Button) findViewById(R.id.storage_fix1);
+        /*******  Storage   *********/
+        /****      Fix 1         ****/
+        Button storage_fix1 = findViewById(R.id.storage_fix1);
 		storage_fix1.setOnClickListener(new OnClickListener()
 		{
 
@@ -32,7 +32,7 @@ public class Main extends ActionBarActivity
 			}
 		});
 		/****      Fix 2            ****/
-		Button storage_fix2 = (Button) findViewById(R.id.storage_fix2);
+        Button storage_fix2 = findViewById(R.id.storage_fix2);
 		storage_fix2.setOnClickListener(new OnClickListener()
 		{
 
