@@ -1,6 +1,6 @@
 # Fix Me Phone
 
-[![Build Status](https://travis-ci.org/techwolves/fixmephone.svg?branch=master)](https://travis-ci.org/techwolves/fixmephone)
+[![Build Status](https://travis-ci.org/octaltech/fixmephone.svg?branch=master)](https://travis-ci.org/octaltech/fixmephone)
 
 AIO Android Bug Squasher
 
